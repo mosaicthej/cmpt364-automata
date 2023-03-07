@@ -1,0 +1,3 @@
+(ab(a+b)*ba) + (aba)
+(ε+a+b)*aaaa(ε+a+b)*bbbb(ε+a+b)* + (ε+a+b)*bbbb(ε+a+b)*aaaa(ε+a+b)*
+(ε+a+b)*a(ε+a+b)^14

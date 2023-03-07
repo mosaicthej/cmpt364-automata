@@ -1,0 +1,3 @@
+(ab(a+b)*ba)+(aba)
+(a+b)*aaaa(a+b)*bbbb(a+b)*+(a+b)*bbbb(a+b)*aaaa(a+b)*
+(a+b)*a(a+b)(a+b)(a+b)(a+b)(a+b)(a+b)(a+b)(a+b)(a+b)(a+b)(a+b)(a+b)(a+b)(a+b)
